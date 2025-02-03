@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 25 C40 15, 60 5, 80 25" stroke="#1B2632" fill="none" stroke-width="2"/>
+  <text x="10" y="30" font-family="Arial" font-size="24" font-weight="bold">
+    <tspan fill="#1B2632">air</tspan><tspan fill="#E31E24">tuerk</tspan>
+  </text>
+</svg>
